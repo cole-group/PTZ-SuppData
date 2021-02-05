@@ -1,4 +1,4 @@
-# Supplementary Information for "Modelling Molecular Emitters in Organic LightEmitting Diodes with the Quantum MechanicalBespoke Force Field"
+# Supplementary Information for "Modelling Molecular Emitters in Organic Light Emitting Diodes with the Quantum Mechanical Bespoke Force Field"
 
 QUBE FF are generated with QUBEKit, exapmle configuration files are given in **QUBEKit_configs**. To run QUBEKit in command line, simply type:
    
