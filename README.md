@@ -1,6 +1,6 @@
 # Supplementary Information for "Modelling Molecular Emitters in Organic Light Emitting Diodes with the Quantum Mechanical Bespoke Force Field"
 
-QUBE FF are generated with QUBEKit, exapmle configuration files are given in **QUBEKit_configs**. To run QUBEKit in command line, simply type:
+QUBE FF are generated with QUBEKit, example configuration files are given in **QUBEKit_configs**. To run QUBEKit in command line, simply type:
    
     # PTZ s0 state
     QUBEKit -i PTZ.pdb -config ptz-s0.ini
