@@ -24,7 +24,13 @@ The following folders contain:
  * OpenMM_sampling_s1.py - a python script for running s1 state sampling using OpenMM
  * tda.inp - a Gaussian 09 input file for calculating the lowest 20 singlet and triplet excitations of PTZ-DBTO2 (TDDFT+TDA) with backgroud point charges
 
+## sample_g09_output
+ * Sample output files from a single MD run of PTZ-DBTO2 in CBP (absorption and emission energies)
+
 ## trajectory
  * Raw trajectories of PTZ-DBTO2 S<sub>0</sub> and S<sub>1</sub> states samplings in different environments.
  * To access the data, see https://doi.org/10.5281/zenodo.4509425.
  * Each *.dcd file corresponds to a 100 ns MD simulation, which contains 500 frames. 
+
+## mp_ptz_inputs
+ * Input force fields, structures and run scripts needed for calaculation of melting points of PTZ-DBTO2 and CBP
